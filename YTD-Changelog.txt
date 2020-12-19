@@ -1,0 +1,4 @@
+- RAM kullanýmý azaltýldý.\n
+- Program kapanýrken aktif indirmeleri ve dönüþtürmeleri durdurur.\n
+- Ayný anda birden fazla indirme baþlatýlamaz.\n
+- Güncellemeler yüklenirken yenilikler gösterilir.
