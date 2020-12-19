@@ -1,4 +1,1 @@
-- RAM kullanımı azaltıldı.\n
-- Program kapanırken aktif indirmeleri ve dönüştürmeleri durdurur.\n
-- Aynı anda birden fazla indirme başlatılamaz.\n
-- Güncellemeler yüklenirken yenilikler gösterilir.
+- RAM kullanÄ±mÄ± azaltÄ±ldÄ±.\n- Program kapanÄ±rken aktif indirmeleri ve dÃ¶nÃ¼ÅŸtÃ¼rmeleri durdurur.\n- AynÄ± anda birden fazla indirme baÅŸlatÄ±lamaz.\n- GÃ¼ncellemeler yÃ¼klenirken yenilikler gÃ¶sterilir.
